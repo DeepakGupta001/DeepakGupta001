@@ -1,8 +1,4 @@
-<h2 align="left">Hi 👋! My name is Deepak and I'm a Backend Developer</h2>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<h2 align="left">Hi 👋! My name is Deepak Gupta and I'm a Backend Developer</h2>
 
 ###
 
